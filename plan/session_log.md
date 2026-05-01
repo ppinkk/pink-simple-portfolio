@@ -9,9 +9,12 @@
 - Set global default branch to `main` and renamed the project's default branch from `master` to `main`.
 - Renamed `pornnapat-pink.github.io` to `docs` to support GitHub Pages deployment via the `/docs` folder.
 - Pushed all code to GitHub.
+- Clarified the usage of the Gemini CLI `/init` command versus the standard Git workflow.
+- Synchronized local repository with remote changes (pulled `hello.md`).
+- Verified the full "Add -> Commit -> Push" workflow by updating and pushing `hello.md`.
 
 ## Current Status
 - Project is live on GitHub: `https://github.com/ppinkk/pink-simple-portfolio`.
 - Deployment folder: `docs/`.
-- GitHub Pages setting: Needs manual activation in repo settings (pointing to `main` branch, `/docs` folder).
-- Standard workflow: Add -> Commit -> Push to `main`.
+- GitHub Pages setting: Setup confirmed for `main` branch, `/docs` folder.
+- Standard workflow: Established and verified (Add -> Commit -> Push to `main`).
